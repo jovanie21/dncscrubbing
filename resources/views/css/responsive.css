@@ -1,0 +1,109 @@
+@media screen and (min-width:1400px){
+    .banner-bg-1{
+        background-image: url('../img/banner-bg-1-1075x1000.png');
+    }
+    .banner-bg-2{
+        background-image: url('../img/banner-bg-2-350x1000.png');
+    }
+    .banner-bg-3{
+        background-image: url('../img/banner-bg-3-350x1000.png');
+    }
+    .banner-bg-4{
+        background-image: url('../img/banner-bg-4-600x1000.png');
+    }
+    .media:last-child{
+        margin: 0 0 50rem  0;
+    }
+    .btn-box{
+        bottom: 25rem;
+    }
+    .btn-box-2{
+        bottom: 25rem;
+    }
+    .path{
+        left: 21%;
+        bottom: 22rem;
+    }
+}
+@media screen and (min-width:1600px){
+    .banner-bg-4{
+        background-image: url('../img/banner-bg-4-1075x1000.png');
+    }
+}
+@media screen and (min-width:2300px){
+    .banner-bg-1{
+        background-size: cover;
+    }
+    .banner-bg-4-2{
+        background-image: url('../img/banner-bg-4-1075x1000.png');
+    }
+}
+@media screen and (max-width:1199px){
+    .btn-box-2 a span{
+        margin-top: .4rem;
+        right: 60%;
+    }
+    .path img{
+        max-width: 80%;
+    }
+}
+@media screen and (min-width:1400px){
+    .btn-box{
+        left: -25%;
+    }
+    .btn-box-2{
+        left: 52%;
+    }
+    .path img{
+        width: 90rem;
+        max-width: 100%;
+    }
+}
+@media screen and (min-width:1590px){
+    .btn-box{
+        left: -38%;
+    }
+    .btn-box-2{
+        left: 72%;
+    }
+    .path img{
+        width: 100rem;
+        max-width: 100%;
+    }
+}
+@media screen and (min-width:1650px){
+    .btn-box{
+        left: -45%;
+    }
+    .btn-box-2{
+        left: 72%;
+    }
+    .path img{
+        width: 102rem;
+        max-width: 100%;
+    }
+}
+@media screen and (min-width:1900px){
+    .btn-box{
+        left: -67%;
+    }
+    .btn-box-2{
+        left: 92%;
+    }
+    .path img{
+        width: 115rem;
+        max-width: 100%;
+    }
+}
+@media screen and (max-width:1200px){
+    .btn-box{
+        left: -8%;
+    }
+    .btn-box-2{
+        left: 24%;
+    }
+    .path img{
+        width: 65rem;
+        max-width: 100%;
+    }
+}

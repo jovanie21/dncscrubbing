@@ -1,0 +1,13 @@
+{
+    "name": "CompareNonDncFile",
+    "alias": "comparenondncfile",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CompareNonDncFile\\Providers\\CompareNonDncFileServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
